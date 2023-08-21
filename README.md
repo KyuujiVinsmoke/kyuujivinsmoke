@@ -13,7 +13,7 @@
     <p>⌨️ Systems Developer</p>
   </h4>
 
-  <h3 align="center" style="padding: 100px;">
+  <h3 align="center" style="padding: 30px;">
     <p>Databases</p>
     <img align="center" title="MongoDB" alt="MongoDB" height="50" width="50" src="_images/bancos-de-dados/mongodb.png">
     <img align="center" title="MySQL" alt="MySQL" height="50" width="50" src="_images/bancos-de-dados/mysql.png">
