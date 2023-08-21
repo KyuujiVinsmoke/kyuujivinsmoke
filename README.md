@@ -60,22 +60,11 @@
     <p><img align="center" title="Most Used Languages" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KyuujiVinsmoke&layout=compact&langs_count=7&theme=dark"/></p>
   </h3>
   
-  <div align="right" style="padding: 10px;">
-    <a href="mailto:andreluizvelosocruz@gmail.com" > 
-      <img align="center" title="Gmail" alt="Gmail" height="40" width="40" src="_images/contatos/gmail.png">
-    </a>
-    <a href="https://www.linkedin.com/in/kyuujivinsmoke">
-      <img align="center" title="LinkedIn" alt="LinkedIn" height="40" width="40" src="_images/contatos/LinkedIn.png">
-    </a>
-    <a href="https://www.facebook.com/KyuujiVinsmoke">
-      <img align="center" title="Facebook" alt="Facebook" height="40" width="40" src="_images/contatos/facebook.png">
-    </a>
-    <a href="https://www.instagram.com/kyuujivinsmoke/?hl=pt-br">
-      <img align="center" title="Instagram" alt="Instagram" height="40" width="40" src="_images/contatos/instagram.png">
-    </a>
-  </div>
-
-  <style>
-    a:hover{ text-decoration: none; }
-  </style>
+  <h4 align="right" style="padding: 10px;">
+  
+  [<img align="center" title="Gmail" alt="Gmail" height="40" width="40" src="_images/contatos/gmail.png">](mailto:andreluizvelosocruz@gmail.com)
+  [<img align="center" title="LinkedIn" alt="LinkedIn" height="40" width="40" src="_images/contatos/LinkedIn.png">](https://www.linkedin.com/in/kyuujivinsmoke)
+  [<img align="center" title="Facebook" alt="Facebook" height="40" width="40" src="_images/contatos/facebook.png">](https://www.facebook.com/KyuujiVinsmoke)
+  [<img align="center" title="Instagram" alt="Instagram" height="40" width="40" src="_images/contatos/instagram.png">](https://www.instagram.com/kyuujivinsmoke/?hl=pt-br)
+  </h4>
 </div>
