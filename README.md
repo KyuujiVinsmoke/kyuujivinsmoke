@@ -63,7 +63,7 @@
   <h4 align="right" style="padding: 10px;">
   
   [<img align="center" title="Gmail" alt="Gmail" height="40" width="40" src="_images/contatos/gmail.png">](mailto:andreluizvelosocruz@gmail.com)
-  [<img align="center" title="LinkedIn" alt="LinkedIn" height="40" width="40" src="_images/contatos/LinkedIn.png">](https://www.linkedin.com/in/kyuujivinsmoke)
+  [<img align="center" title="LinkedIn" alt="LinkedIn" height="40" width="40" src="_images/contatos/linkedin.png">](https://www.linkedin.com/in/kyuujivinsmoke)
   [<img align="center" title="Facebook" alt="Facebook" height="40" width="40" src="_images/contatos/facebook.png">](https://www.facebook.com/KyuujiVinsmoke)
   [<img align="center" title="Instagram" alt="Instagram" height="40" width="40" src="_images/contatos/instagram.png">](https://www.instagram.com/kyuujivinsmoke/?hl=pt-br)
   </h4>
