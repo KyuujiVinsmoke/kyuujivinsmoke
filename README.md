@@ -18,7 +18,6 @@
     <img align="center" title="MongoDB" alt="MongoDB" height="50" width="50" src="_images/bancos-de-dados/mongodb.png">
     <img align="center" title="MySQL" alt="MySQL" height="50" width="50" src="_images/bancos-de-dados/mysql.png">
     <img align="center" title="PostgreSQL" alt="PostgreSQL" height="50" width="50" src="_images/bancos-de-dados/postgresql.png">
-    <img align="center" title="SQLite" alt="SQLite" height="50" width="50" src="_images/bancos-de-dados/sqlite.png">
   </h3>
 
   <h3 align="center" style="padding: 30px;">
